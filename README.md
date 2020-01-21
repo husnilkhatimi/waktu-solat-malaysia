@@ -1,6 +1,6 @@
 Waktu Solat Malaysia Dan Tarikh Hijrah
 ==============
-Data waktu solat untuk negeri-negeri di Malaysia setiap hari, dan pertukaran tarikh kalendar Masihi ke Hijrah sepanjang tahun, di dalam format JSON dan API.
+Data waktu solat untuk negeri-negeri di Malaysia setiap hari, dan pertukaran tarikh kalendar Masihi ke Hijrah sepanjang tahun, di dalam format JSON, MySQL, Sqlite dan API.
 
 * [Data Tahunan Fail JSON](#data-tahunan-fail-json)
 * [Data API eSolat.gov.my](#data-api-esolatgovmy)
